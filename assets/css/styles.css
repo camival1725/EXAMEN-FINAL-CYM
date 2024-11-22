@@ -1,0 +1,35 @@
+h1 {
+  color: var(--bs-red);
+}
+
+h1:hover {
+  color: var(--bs-red);
+}
+
+img:hover {
+  filter: invert(80%);
+}
+
+.btn {
+  background-color: var(--bs-red);
+}
+
+.navbar {
+}
+
+.btn:hover {
+  background-color: var(--bs-red);
+}
+
+.footer-clean {
+  background-color: #ffffff;
+}
+
+.footer-clean:hover {
+  background-color: var(--bs-red);
+}
+
+.navbar {
+  background-color: #ff0000;
+}
+
